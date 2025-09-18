@@ -1,4 +1,4 @@
-# 🍽️ Online Food Ordering System (PHP + MySQL)
+# 🍽️ GLA CRAVE- Online Food Ordering System
 
 [![PHP](https://img.shields.io/badge/PHP-7.4-blue?logo=php&logoColor=white)](https://www.php.net/) 
 [![MySQL](https://img.shields.io/badge/MySQL-5.7-blue?logo=mysql&logoColor=white)](https://www.mysql.com/) 
